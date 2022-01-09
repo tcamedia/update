@@ -4,19 +4,11 @@ Actualización a la versión 2.5.1
 
 Realmente solo cambia la versión.
 
-* Añadido el checklistbox accesible para 32 Bits.
-
-* Añadido el poder comprobar si hay actualizaciones al iniciar la aplicación.
-
 FR:
 
 Mise à niveau vers la version 2.5.1
 
 Il ne change vraiment que la version.
-
-* Ajout de la boîte de contrôle accessible pour 32 Bits.
-
-* Ajout de la possibilité de vérifier les mises à jour au démarrage de l'application.
 
 EN:
 
@@ -24,16 +16,9 @@ Upgrade to version 2.5.1
 
 Actually only the version is changed.
 
-* Added the checklistbox accessible for 32 Bits.
-
-* Added the ability to check for updates when starting the application.
-
 IT:
 
 Aggiornamento alla versione 2.5.1
 
 Cambia davvero solo la versione.
 
-* Aggiunta la casella di controllo accessibile per 32 bit.
-
-* Aggiunta la possibilità di controllare gli aggiornamenti all'avvio dell'applicazione.
