@@ -1,0 +1,15 @@
+ES:
+
+Esto es una prueba.
+
+FR:
+
+Otra prueba más.
+
+EN:
+
+Y seguimos probando.
+
+IT:
+
+Bona sera.
