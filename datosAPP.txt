@@ -1,15 +1,55 @@
 ES:
 
-Esto es una prueba.
+* Se corrigió error en las búsquedas.
+
+Ahora cuando cambiemos de librería no debería dar error al buscar.
+
+* Se corrigió error en la extracción de datos de la ficha.
+
+Ahora cuando pidamos ver una ficha no debería haber problemas con ninguna de las dos librerías.
+
+* Se actualizo la librería YT-DLP.
+
+Actualizada la librería a la versión 2022.01.21
 
 FR:
 
-Otra prueba más.
+* Correction d'une erreur dans les recherches.
+
+Maintenant, lorsque nous changeons de bibliothèque, il ne devrait pas y avoir d'erreur lors de la recherche.
+
+* Correction d'un bug dans l'extraction des données du fichier.
+
+Maintenant, lorsque vous demandez à voir un enregistrement, il ne devrait y avoir aucun problème avec l'une ou l'autre des bibliothèques.
+
+* Mise à jour de la bibliothèque YT-DLP.
+
+Mise à jour de la bibliothèque à la version 2022.01.21.
 
 EN:
 
-Y seguimos probando.
+* Error in the searches has been corrected.
+
+Now when we change library it should not give error when searching.
+
+* Fixed error in the extraction of data from the card.
+
+Now when requesting to view a card there should be no problems with either library.
+
+* Updated the YT-DLP library.
+
+Updated the library to version 2022.01.21.
 
 IT:
 
-Bona sera.
+* Errore fisso nelle ricerche.
+
+Ora quando cambiamo libreria non dovrebbe dare errore durante la ricerca.
+
+* Bug fisso nell'estrazione dei dati dal file.
+
+Ora quando si richiede di visualizzare un record non ci dovrebbero essere problemi con nessuna delle due biblioteche.
+
+* Aggiornata la libreria YT-DLP.
+
+Aggiornata la libreria alla versione 2022.01.21
