@@ -1,5 +1,9 @@
 es
 
+* Versión de TCA-Media Downloader 2.5.3.
+
+Se lanza una actualización para solucionar un problema con los idiomas. Esta actualización además contiene las mejoras de la versión 2.5.2.
+
 * Agregados idiomas Turco y Albanés.
 
 * Mejorado el dialogo de Ajustes.
@@ -13,6 +17,10 @@ Ahora en caso de no tener idioma el programa cargara por defecto en Inglés.
 * Corrección de errores.
 
 fr
+
+* TCA-Media Downloader version 2.5.3.
+
+Une mise à jour est publiée pour résoudre un problème avec les langues. Cette mise à jour contient également les améliorations de la version 2.5.2.
 
 * Ajout des langues turque et albanaise.
 
@@ -28,6 +36,10 @@ Maintenant, si vous n'avez pas de langue, le programme se chargera par défaut e
 
 en
 
+* TCA-Media Downloader version 2.5.3.
+
+An update is released to fix an issue with languages. This update also contains the improvements of version 2.5.2.
+
 * Added Turkish and Albanian languages.
 
 * Improved Settings dialog.
@@ -41,6 +53,10 @@ Now if you don't have a language, the program will load by default in English.
 * Error correction.
 
 it
+
+* TCA-Media Downloader versione 2.5.3.
+
+Viene rilasciato un aggiornamento per risolvere un problema con le lingue. Questo aggiornamento contiene anche i miglioramenti della versione 2.5.2.
 
 * Aggiunte lingue turche e albanesi.
 
@@ -56,6 +72,10 @@ Ora, se non hai una lingua, il programma verrà caricato per impostazione predef
 
 tr
 
+* TCA-Medya İndirici sürüm 2.5.3.
+
+Dillerle ilgili bir sorunu gidermek için bir güncelleme yayınlandı. Bu güncelleme ayrıca 2.5.2 sürümünün geliştirmelerini de içerir.
+
 * Türkçe ve Arnavutça dilleri eklendi.
 
 * Geliştirilmiş Ayarlar iletişim kutusu.
@@ -69,6 +89,10 @@ tr
 * Hata düzeltme.
 
 sq
+
+* TCA-Media Downloader version 2.5.3.
+
+Një përditësim lëshohet për të rregulluar një problem me gjuhët. Ky përditësim përmban gjithashtu përmirësimet e versionit 2.5.2.
 
 * Shtuar gjuhët turke dhe shqipe.
 
