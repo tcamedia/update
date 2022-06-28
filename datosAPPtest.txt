@@ -1,20 +1,7 @@
 es
 
-* Versión de TCA-Media Downloader 2.5.3.
+* Versión de TCA-Media Downloader 2.7
 
-Se lanza una actualización para solucionar un problema con los idiomas. Esta actualización además contiene las mejoras de la versión 2.5.2.
-
-* Agregados idiomas Turco y Albanés.
-
-* Mejorado el dialogo de Ajustes.
-
-* Agregado detección de idioma local.
-
-Ahora en caso de no tener idioma el programa cargara por defecto en Inglés.
-
-* Actualizada librería YT-DLP a la versión 2022.02.04.
-
-* Corrección de errores.
 
 fr
 
