@@ -1,107 +1,55 @@
-es
+# es
 
-* Versión de TCA-Media Downloader 2.5.3.
+* Versión de TCA-Media Downloader 2.6.1.
 
-Se lanza una actualización para solucionar un problema con los idiomas. Esta actualización además contiene las mejoras de la versión 2.5.2.
+* Solucionado problema en descargas de PlayList.
 
-* Agregados idiomas Turco y Albanés.
+* Actualizada librería YT-DLP a la versión 2022.06.29.
 
-* Mejorado el dialogo de Ajustes.
+# fr
 
-* Agregado detección de idioma local.
+* TCA-Media Downloader version 2.6.1.
 
-Ahora en caso de no tener idioma el programa cargara por defecto en Inglés.
+* Correction d'un problème dans les téléchargements PlayList.
 
-* Actualizada librería YT-DLP a la versión 2022.02.04.
+* Mise à jour de la bibliothèque YT-DLP vers la version 2022.06.29.
 
-* Corrección de errores.
+# en
 
-fr
+* TCA-Media Downloader version 2.6.1.
 
-* TCA-Media Downloader version 2.5.3.
+* Fixed problem in PlayList downloads.
 
-Une mise à jour est publiée pour résoudre un problème avec les langues. Cette mise à jour contient également les améliorations de la version 2.5.2.
+* Updated YT-DLP library to version 2022.06.29.
 
-* Ajout des langues turque et albanaise.
+# it
 
-* Boîte de dialogue Paramètres améliorée.
+* TCA-Media Downloader versione 2.6.1.
 
-* Ajout de la détection de la langue locale.
+* Risolto problema nei download della playlist.
 
-Maintenant, si vous n'avez pas de langue, le programme se chargera par défaut en anglais.
+* Libreria YT-DLP aggiornata alla versione 2022.06.29.
 
-* Mise à jour de la bibliothèque YT-DLP vers la version 2022.02.04.
+# tr
 
-* Correction des erreurs.
+* TCA-Medya İndirici sürüm 2.6.1.
 
-en
+* PlayList indirmelerinde sorun düzeltildi.
 
-* TCA-Media Downloader version 2.5.3.
+* YT-DLP kitaplığı 2022.06.29 sürümüne güncellendi.
 
-An update is released to fix an issue with languages. This update also contains the improvements of version 2.5.2.
+# sq
 
-* Added Turkish and Albanian languages.
+* TCA-Media Downloader version 2.6.1.
 
-* Improved Settings dialog.
+* Rregullohet problemi në shkarkimet e PlayList.
 
-* Added local language detection.
+* Biblioteka YT-DLP e përditësuar në versionin 2022.06.29.
 
-Now if you don't have a language, the program will load by default in English.
+# ar
 
-* Updated YT-DLP library to version 2022.02.04.
+* TCA-Media Downloader الإصدار 2.6.1.
 
-* Error correction.
+* مشكلة ثابتة في تنزيلات قائمة التشغيل.
 
-it
-
-* TCA-Media Downloader versione 2.5.3.
-
-Viene rilasciato un aggiornamento per risolvere un problema con le lingue. Questo aggiornamento contiene anche i miglioramenti della versione 2.5.2.
-
-* Aggiunte lingue turche e albanesi.
-
-* Finestra di dialogo Impostazioni migliorata.
-
-* Aggiunto rilevamento della lingua locale.
-
-Ora, se non hai una lingua, il programma verrà caricato per impostazione predefinita in inglese.
-
-* Libreria YT-DLP aggiornata alla versione 2022.02.04.
-
-* Correzione dell'errore.
-
-tr
-
-* TCA-Medya İndirici sürüm 2.5.3.
-
-Dillerle ilgili bir sorunu gidermek için bir güncelleme yayınlandı. Bu güncelleme ayrıca 2.5.2 sürümünün geliştirmelerini de içerir.
-
-* Türkçe ve Arnavutça dilleri eklendi.
-
-* Geliştirilmiş Ayarlar iletişim kutusu.
-
-* Yerel dil algılama eklendi.
-
-Şimdi bir diliniz yoksa, program varsayılan olarak İngilizce olarak yüklenecektir.
-
-* YT-DLP kitaplığı 2022.02.04 sürümüne güncellendi.
-
-* Hata düzeltme.
-
-sq
-
-* TCA-Media Downloader version 2.5.3.
-
-Një përditësim lëshohet për të rregulluar një problem me gjuhët. Ky përditësim përmban gjithashtu përmirësimet e versionit 2.5.2.
-
-* Shtuar gjuhët turke dhe shqipe.
-
-* Dialogu i përmirësuar i cilësimeve.
-
-* U shtua zbulimi i gjuhës lokale.
-
-Tani nëse nuk keni një gjuhë, programi do të ngarkohet si parazgjedhje në anglisht.
-
-* Biblioteka YT-DLP e përditësuar në versionin 2022.02.04.
-
-* Korrigjimi i gabimit.
+* تم تحديث مكتبة YT-DLP إلى الإصدار 2022.06.29.
