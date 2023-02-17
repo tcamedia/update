@@ -1,41 +1,42 @@
 # es
 
-* Versión de TCA-Media Downloader 2.6.5.
+* Solución para el reproductor.
+* Versión de TCA-Media Downloader 2.6.6.
 
 * Actualizada librería YT-DLP a la versión 2023.02.17.
 
 # fr
 
-* TCA-Media Downloader version 2.6.5.
+* TCA-Media Downloader version 2.6.6.
 
 * Mise à jour de la bibliothèque YT-DLP vers la version 2023.02.17.
 
 # en
 
-* TCA-Media Downloader version 2.6.5.
+* TCA-Media Downloader version 2.6.6.
 
 * Updated YT-DLP library to version 2023.02.17.
 
 # it
 
-* TCA-Media Downloader versione 2.6.5.
+* TCA-Media Downloader versione 2.6.6.
 
 * Libreria YT-DLP aggiornata alla versione 2023.02.17.
 
 # tr
 
-* TCA-Medya İndirici sürüm 2.6.5.
+* TCA-Medya İndirici sürüm 2.6.6.
 
 * YT-DLP kitaplığı 2023.02.17sürümüne güncellendi.
 
 # sq
 
-* TCA-Media Downloader version 2.6.5.
+* TCA-Media Downloader version 2.6.6.
 
 * Biblioteka YT-DLP e përditësuar në versionin 2023.02.17.
 
 # ar
 
-* TCA-Media Downloader الإصدار 2.6.5.
+* TCA-Media Downloader الإصدار 2.6.6.
 
 * تم تحديث مكتبة YT-DLP إلى الإصدار 2023.02.17.
