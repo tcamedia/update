@@ -1,41 +1,21 @@
 # es
 
-* Versión de TCA-Media Downloader 2.6.10.
+* Versión de TCA-Media Downloader 2.7.
 
-* Solucionado problema con la búsqueda.
+* Agregado un nuevo item en el menú principal para buscar actualizaciones de la librería YT-DLP.
 
-# fr
+Ahora cuando el programa empiece a fallar se recomiendo buscar actualización de la librería YT-DLP para que siga funcionando.
 
-* TCA-Media Downloader version 2.6.10.
+Este es un parche el cual funcionara mientras no haya cambios importantes en la librería.
 
-* Mise à jour de la bibliothèque YT-DLP vers la version 2023.03.04.
+Se recomienda a los usuarios cada cierto tiempo comprobar si hay actualizaciones y en caso de haberlas actualizar.
 
-# en
+* Actualizada librería YT-DLP a la versión 2023.07.06.
 
-* TCA-Media Downloader version 2.6.10.
+* Versión FINAL.
 
-* Updated YT-DLP library to version 2023.03.04.
+Esta es la ultima versión que sale de TCA-Media Downloader 2.
 
-# it
+Sale para intentar dar más vida al programa y para aquellos usuarios con Windows 7 que no pueden actualizar a TCA-Media Downloader 3.
 
-* TCA-Media Downloader versione 2.6.10.
-
-* Libreria YT-DLP aggiornata alla versione 2023.03.04.
-
-# tr
-
-* TCA-Medya İndirici sürüm 2.6.10.
-
-* YT-DLP kitaplığı 2023.03.04 sürümüne güncellendi.
-
-# sq
-
-* TCA-Media Downloader version 2.6.10.
-
-* Biblioteka YT-DLP e përditësuar në versionin 2023.03.04.
-
-# ar
-
-* TCA-Media Downloader الإصدار 2.6.10.
-
-* تم تحديث مكتبة YT-DLP إلى الإصدار 2023.03.04.
+En el momento que ni siquiera actualizando la librería TCA-Media Downloader 2 deje de funcionar, la vida del programa se habrá acabado no habiendo ninguna actualización más.
